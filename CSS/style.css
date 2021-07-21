@@ -1,7 +1,7 @@
 body {
   margin: 0;
 	height: 3000px; /* Used to enable scrolling */
-	background: linear-gradient(55deg, #6EB5FF 0%, #FF9CEE 51%, #FFEEFC 85%);
+	background: linear-gradient(90deg, #6EB5FF 0%, #FF9CEE 51%, #FFEEFC 85%);
   }
 
 .navigation {
