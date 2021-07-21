@@ -37,7 +37,7 @@ ul {
 li {
 	padding: 10px;
 	display: inline-block;
-	color: white;
+	color: #FF9CEE;
 	font-size: 30px;
 }
 
@@ -54,25 +54,27 @@ li {
 }
 button {
   padding: 15px;
-  background-color: #373738;
-  color: white;
+  background-color: #282828;
+  color: #FF9CEE;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
 	background-color: #282828;
-	width: 100%;
-	position: relative;
+	padding: 0px;
 }
 
 footer ul {
 	display: inline-block;
+	vertical-align: top;
+	padding-left: 10px;
+	color: #FF9CEE;
 }
 
 footer ul li {
-	font-size: 20px;
 	padding: 10px;
 }
+
 .heading {
   text-align: center;
   padding: 15px 5px;
