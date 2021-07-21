@@ -1,6 +1,9 @@
 body {
   margin: 0;
-}
+	height: 3000px; /* Used to enable scrolling */
+	background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%);
+  }
+
 .navigation {
 	background-color: #282828;
 	display: flex;
