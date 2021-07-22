@@ -93,9 +93,6 @@ footer ul li {
   font-size: 30px;
 }
 
-hr.solid {
-  border-top: 3px solid #282828;
-}
 /* My UX Skills Section */
 .flexContainer {
   display: flex;
