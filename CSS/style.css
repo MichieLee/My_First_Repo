@@ -92,6 +92,10 @@ footer ul li {
   padding: 15px 5px;
   font-size: 30px;
 }
+
+hr.solid {
+  border-top: 3px solid #282828;
+}
 /* My UX Skills Section */
 .flexContainer {
   display: flex;
