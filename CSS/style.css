@@ -103,6 +103,11 @@ footer ul li {
   margin-inline: auto;
 }
 
+.img1 {
+  margin: auto;
+  display: block;
+}
+
 h3 {
   text-align: center;
 }
