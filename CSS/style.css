@@ -99,7 +99,7 @@ footer ul li {
 .flexContainer div {
   width: 25%;
   padding: 25px;
-  margin-left: auto;
+  margin-inline: auto;
 }
 
 /* My Work Section */
